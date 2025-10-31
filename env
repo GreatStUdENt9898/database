@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=Abhay1701
+DB_NAME=Skill_Based_Freelancing_Management_System
+PORT=5000
